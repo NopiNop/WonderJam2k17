@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include <string>
 #include "JsonObjectConverter.h"
 
 #include "Kismet/BlueprintFunctionLibrary.h"
@@ -18,6 +19,8 @@ struct FAnswer
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "JSON")
 		float Power;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "JSON")
+		FString Ressource;
 };
 
 USTRUCT(BlueprintType)
