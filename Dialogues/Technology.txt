@@ -1,0 +1,49 @@
+[{
+	"id": 1,
+	"Question": "Je vous souhaite une bonne journée, Dirigeant Suprême ! Moi et mes collegues attendions avec impatience le nouveau téléphone U-pomme, mais sa sortie a pris beaucoup de retard... et on se pose des questions ! Vous serez-t-il possible d'envoyer quelqu'un pour voir ce qui se passe ?",
+	"Answers": [{
+		"Answer": "Je préviens immediatement  mon espio– EUH... Le responsable des nouvelles technologies pour qu'il envoie quelqu'un sur place !",
+		"Power": 75,
+		"Ressource": "Tech"
+	}, {
+		"Answer": "Je crois que vous pouvez attendre longtemps avant d'avoir votre nouveau jouet ! Voici de quoi vous faire patienter !",
+		"Power": 50,
+		"Ressource": "Gold"
+	}, {
+		"Answer": "Vous avez envie de pommes ? Eh bien, soit ! Vous recevrez le reste de mes récoltes dans la journée !",
+		"Power": 25,
+		"Ressource": "Food"
+	}]
+}, {
+"id": 2,
+"Question": "Bonjour, Père de la Nation ! Pour améliorer nos récoltes, nous souhaiterions savoir où en est la production des robots autonomes qui permettent de conduire un tracteur seul ?",
+"Answers": [{
+  "Answer": "Chers agriculteurs, ils sont arrivés ! Les voici !",
+  "Power": 75,
+  "Ressource": "Tech"
+}, {
+  "Answer": "À quoi cela servirait-il ? Travaillez plus et vous gagnerez plus, voici d'ailleurs un peu d'oseille en avance !",
+  "Power": 50,
+  "Ressource": "Gold"
+}, {
+  "Answer": "Allons, allons ! Cela coûte beaucoup trop cher ! Nous avons encore largement assez de nourriture pour nourrir cent fois la ville entière !",
+  "Power": 25,
+  "Ressource": "Food"
+}]
+}, {
+"id": 3,
+"Question": "Mes sincères salutations, Maître des Maîtres ! Après une difficile journée encore, nous, riches intellectuels (mais modestes !), nous souhaiterions une intelligence artificielle qui nous permettrait de deviner les cours de la bourse. Cela vous serez-t-il possible ?",
+"Answers": [{
+  "Answer": "Je vais de ce pas en informer les personnes compétentes !",
+  "Power": 75,
+  "Ressource": "Tech"
+}, {
+  "Answer": "Je ne cautionnerai pas une autre de vos lubies ! Vous devriez plutôt nourrir convenablement votre famille !",
+  "Power": 50,
+  "Ressource": "Food"
+}, {
+  "Answer": "De riches intellectuels... ? Hm... En tout cas, vous n'en avez pas besoin ! Regardez un peu : nous avons tellement de ressources que nous ne savons plus quoi en faire !",
+  "Power": 25,
+  "Ressource": "Gold"
+}]
+}]
