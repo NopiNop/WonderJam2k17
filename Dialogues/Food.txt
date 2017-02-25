@@ -1,3 +1,53 @@
-I need food�:Yes:No:GFY;
-I am thirsty���� af:Yes:No:GFY;
-Please:�Yes:No:GFY;
+﻿[{
+	"id": 1,
+	"Question": "Bonjour votre grandeur nos réserves de nourritures sont épuisées vous serait il possible de nous en fournir [food] ?",
+	"Answers": [{
+		"Answer": "Mais oui bien sûr je ne laisserai jamais mon peuple mourir de faim.",
+		"Power": 75
+	}, {
+		"Answer": "Malheureusement c'est impossible pour le moment nous n'avons plus rien en stock.",
+		"Power": 50
+	}, {
+		"Answer": "Gardes, enfermez cet homme !",
+		"Power": 25
+	}]
+}, {
+	"id": 2,
+	"Question": "Bonjour grand dirigeant, votre peuple est actuellement en train de mourir de faim, pourriez-vous résoudre cela rapidement ?",
+	"Answers": [{
+		"Answer": "En effet, je vais vous faire parvenir [food] de nourriture.",
+		"Power": 75
+	}, {
+		"Answer": "Pour cela je peux vous fournir [gold].",
+		"Power": 50
+	}, {
+		"Answer": "Malheureusement, nos réserves sont épuisées, je ne vais rien pouvoir faire pour vous.",
+		"Power": 25
+	}]
+}, {
+	"id": 3,
+	"Question": "Supreme Leader! La famine est à nos portes! Il est crucial de nous venir en aide, à moins de [food] nous en souffrirons! ",
+	"Answers": [{
+		"Answer": "Comment!? voici les [food] demandées!",
+		"Power": 75
+	}, {
+		"Answer": "  Il va falloir tenir sur nos réserves pour le moment, je vous en offrirai dès que possible…",
+		"Power": 50
+	}, {
+		"Answer": " Vous n’avez pas de pain? Mangez donc de la brioche !",
+		"Power": 25
+	}]
+},{
+	"id": 4,
+	"Question": "Ô grand Vizir, notre riche quartier quémande de la bonne nourriture pour un nouveau restaurant chic ! Les paysans n’auraient-ils pas trop de nourriture sous la dent?",
+	"Answers": [{
+		"Answer": "Si et plein de caries! Voilà [food] de nourriture",
+		"Power": 75
+	}, {
+		"Answer": "Laissez moi y refléchir !",
+		"Power": 50
+	}, {
+		"Answer": "Non et je vous trouve assez bien gras vous-même !",
+		"Power": 25
+	}]
+}]

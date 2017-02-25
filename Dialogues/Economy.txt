@@ -1,0 +1,71 @@
+[{
+	"id": 1,
+	"Question": "Bonjour à vous votre majesté. Suite à la grande tempête d'il y a quelques jours notre port de plaisance a été détruit. Nous avons déjà fait une estimation des coûts. Vous serait-il possible de débloquer [gold] pour financer cette reconstruction ?",
+	"Answers": [{
+		"Answer": "Pas de problème, mais n'oublie pas de m'inviter sur ton yacht cet été.",
+		"Power": 75, 
+		"Gold":-50
+	}, {
+		"Answer": "Ca va être difficile je voulais utiliser cette somme pour me payer un nouveau pot d'échappement en platine pour mon petit bolide.",
+		"Power": 50
+	}, {
+		"Answer": "...",
+		"Power": 50
+	}]
+}, {
+	"id": 2,
+	"Question": "Bonjour votre éminence. Des amis et moi-même voulions faire un tournoi de polo ce week-end. Pensez-vous qu'il vous serait possible de nous aider à l'organiser et peut être même de récompenser le vainqueur ? Je pense que [gold] pour ce dernier pourrait lui montrer votre intérêt pour notre sport favori. Qu'en pensez-vous ?",
+	"Answers": [{
+		"Answer": "Pour moi le cheval c'est uniquement en lasagne.",
+		"Power": 75
+	}, {
+		"Answer": "Après tout ce que tu as fait pour moi Jean-Charles je peux bien faire ça pour toi",
+		"Power": 50, 
+		"Gold":-50
+	}, {
+		"Answer": "...",
+		"Power": 50
+	}]
+}, {
+	"id": 3,
+	"Question": "J'espère que votre magnificence passe une agréable journée. Une de nos usines vient de tomber en panne. Nous avons besoin de [gold] pour la réparer. Pouvez vous nous fournir cette somme pour réparer le fleuron de notre production technologique ?",
+	"Answers": [{
+		"Answer": "Bien sûr j'ai besoin de vous pour mes cam ... euh j'ai besoin de vous pour votre grand apport à notre société",
+		"Power": 75
+	}, {
+		"Answer": "Ca ne va pas être possible",
+		"Power": 50
+	}, {
+		"Answer": "...",
+		"Power": 50
+	}]
+},
+{
+	"id": 3,
+	"Question": "Bien le bonjour votre grandeur. Plusieurs de nos tracteurs ont été volés en début de semaine. Il nous en faudrait de nouveaux pour les moissons de la semaine prochaine. Sans cela il sera difficile de nourrir tout le monde quand les réserves seront épuisées. Cela est-il possible ?",
+	"Answers": [{
+		"Answer": "Pas de problèmes voici [gold].",
+		"Power": 75
+	}, {
+		"Answer": "Non, en cas de famine le cannibalisme peut être la solution !",
+		"Power": 50
+	}, {
+		"Answer": "...",
+		"Power": 50
+	}]
+},
+{
+	"id": 3,
+	"Question": "Bonjour votre excellence. La bourse va très mal en ce moment. Il faudrait donner [gold] pour éviter aux banques de faire faillite. Les conséquences pourraient être désastreuses.",
+	"Answers": [{
+		"Answer": "Les banques qu'est-ce que c'est ?",
+		"Power": 75
+	}, {
+		"Answer": "Le nécessaire sera fait.",
+		"Power": 50
+	}, {
+		"Answer": "...",
+		"Power": 50
+	}]
+}]
+
