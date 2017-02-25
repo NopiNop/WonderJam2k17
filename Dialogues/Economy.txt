@@ -1,80 +1,80 @@
 [{
 	"id": 1,
-	"Question": "Bonjour à vous votre majesté. Suite à la grande tempête d'il y a quelques jours notre port de plaisance a été détruit. Nous avons déjà fait une estimation des coûts. Vous serait-il possible de débloquer les fonds nécessaires pour financer cette reconstruction ?",
+	"Question": "Mes plus honorables salutations, Votre MajestÃ© ! Suite Ã  la grande tempÃªte d'il y a quelques jours, notre port de plaisance a Ã©tÃ© complÃ¨tement dÃ©truit, et nous avons dÃ©jÃ  fait une estimation des coÃ»ts. Vous serait-il possible de dÃ©bloquer les fonds nÃ©cessaires pour financer cette reconstruction ?",
 	"Answers": [{
-		"Answer": "Pas de problème, mais n'oublie pas de m'inviter sur ton yacht cet été.",
+		"Answer": "No problemo, matelot ! N'oubliez pas de m'inviter sur votre yacht aprÃ¨s la reconstruction !",
 		"Power": 75,
 		"Ressource": "Gold"
 	}, {
-		"Answer": "Ca va être difficile je voulais utiliser cette somme pour me payer un nouveau pot d'échappement en platine pour mon petit bolide. Regardez un peu ce nouveau modèle que nos ingénieurs nous ont trouvé.",
+		"Answer": "C'est impossible, je le crains. Je souhaitais utiliser cette somme pour me payer un nouveau pot d'Ã©chappement en platine lustrÃ©e pour mon petit bolide des familles. Regardez plutÃ´t ce nouveau modÃ¨le que nos ingÃ©nieurs nous ont concoctÃ© !",
 		"Power": 50,
 		"Ressource": "Tech"
 	}, {
-		"Answer": "Vous resterez bien pour diner ?",
+		"Answer": "Vous resterez bien pour dÃ®ner ?",
 		"Power": 50,
 		"Ressource": "Food"
 	}]
 }, {
 	"id": 2,
-	"Question": "Bonjour votre éminence. Des amis et moi-même voulions faire un tournoi de polo ce week-end. Pensez-vous qu'il vous serait possible de nous aider à l'organiser et peut être même de récompenser le vainqueur ? Je pense qu'un minimum d'or pour ce dernier pourrait lui montrer votre intérêt pour notre sport favori. Qu'en pensez-vous ?",
+	"Question": "Bonjour, Votre Ã‰minence. Des amis et moi-mÃªme voulions faire un tournoi de polo ce week-end. Vous serait-il possible de nous aider Ã  l'organiser, et peut-Ãªtre mÃªme de rÃ©compenser le vainqueur ? Je pense qu'un minimum d'or pour ce dernier pourrait lui prouver votre intÃ©rÃªt pour notre sport favori. Qu'en pensez-vous ?",
 	"Answers": [{
-		"Answer": "Pour moi le cheval c'est uniquement en lasagne.",
+		"Answer": "Pour moi, le cheval, c'est uniquement en lasagne.",
 		"Power": 75,
 		"Ressource": "Food"
 	}, {
-		"Answer": "Après tout ce que tu as fait pour moi Jean-Charles je peux bien faire ça pour toi.",
+		"Answer": "AprÃ¨s tout ce que avez fait pour moi, Jean-Charles, je peux bien faire un geste !",
 		"Power": 50,
 		"Ressource": "Gold"
 	}, {
-		"Answer": "Oh, à ce propos, regarde un peu cette technologie de pointe que je viens de trouver !",
+		"Answer": "Oh, Ã  ce propos, regardez un peu cette technologie de pointe que nous venons de dÃ©velopper ! Plus besoin d'organiser un tournoi aprÃ¨s Ã§a !",
 		"Power": 50,
 		"Ressource": "Tech"
 	}]
 }, {
 	"id": 3,
-	"Question": "J'espère que votre magnificence passe une agréable journée. Une de nos usines vient de tomber en panne. Nous avons besoin d'aide financière pour la réparer. Pouvez vous nous fournir cette somme pour réparer le fleuron de notre production technologique ?",
+	"Question": "J'espÃ¨re que Votre Magnificence passe une agrÃ©able journÃ©e ! Une de nos usines vient de tomber en panne, et nous avons besoin d'aide financiÃ¨re pour la rÃ©parer. Pouvez-vous nous fournir cette somme pour restaurer le fleuron de notre production technologique ?",
 	"Answers": [{
-		"Answer": "Bien sûr j'ai besoin de vous pour mes cam ... euh j'ai besoin de vous pour votre grand apport à notre société",
+		"Answer": "Bien sÃ»r ! J'ai besoin de vous pour mes camÃ©ras de surveillanâ€“ EUH... J'ai besoin de vous pour votre grand apport Ã  notre grande sociÃ©tÃ©.",
 		"Power": 75,
 		"Ressource": "Gold"
 	}, {
-		"Answer": "Ça ne va pas être possible, mais en changeant légèrement votre usine vous pouriez faire un profit monstre, laissez moi vous montrer.",
+		"Answer": "C'est impossible. Cependant, en changeant lÃ©gÃ¨rement votre usine, vous pourriez faire un profit consÃ©quent ! Laissez-moi vous expliquer.",
 		"Power": 50,
 		"Ressource": "Tech"
 	}, {
-		"Answer": "Pendant que vous la réparez, je peux vous fournir la nourriture nécessaire.",
+		"Answer": "Pendant que vous la rÃ©parez, je peux vous fournir la nourriture nÃ©cessaire pour subvenir Ã  vos besoins.",
 		"Power": 50,
 		"Ressource": "Food"
 	}]
 }, {
 	"id": 4,
-	"Question": "Bien le bonjour votre grandeur. Plusieurs de nos tracteurs ont été volés en début de semaine. Il nous en faudrait de nouveaux pour les moissons de la semaine prochaine. Sans cela il sera difficile de nourrir tout le monde quand les réserves seront épuisées. Cela est-il possible ?",
+	"Question": "Bien le bonjour, Ã” Votre Grandeur. Plusieurs de nos tracteurs ont Ã©tÃ© volÃ©s en dÃ©but de semaine. Il nous en faudrait de nouveaux pour les moissons de la semaine prochaine. Sans cela, il sera difficile de nourrir tout le monde quand les rÃ©serves seront Ã©puisÃ©es. Cela vous est-il possible ?",
 	"Answers": [{
-		"Answer": "Pas de problèmes voici ce dont vous aurez besoin.",
+		"Answer": "Pas de problÃ¨me. Voici ce dont vous aurez besoin.",
 		"Power": 75,
 		"Ressource": "Gold"
 	}, {
-		"Answer": "Non, en cas de famine le cannibalisme peut être la solution ! J'ai même trouvé une nouvelle machine permettant de profiter des bienfaits de n'importe quelle viande.",
+		"Answer": "Non. En cas de famine, le cannibalisme peut Ãªtre une solution. J'ai mÃªme trouvÃ© une nouvelle machine permettant de profiter des bienfaits de n'importe quelle viande...",
 		"Power": 75,
 		"Ressource": "Tech"
 	}, {
-		"Answer": "Si vraiment vous avez peur de ne pas en avoir assez, vous pouvez aussi vous servir dans les rèserves de la ville.",
+		"Answer": "Si vraiment vous avez peur de ne pas en avoir assez, vous pouvez aussi vous servir dans les rÃ©serves de la ville.",
 		"Power": 75,
 		"Ressource": "Food"
 	}]
 }, {
 	"id": 5,
-	"Question": "Bonjour votre excellence. La bourse va très mal en ce moment. Il faudrait donner une avance pour éviter aux banques de faire faillite. Les conséquences pourraient être désastreuses.",
+	"Question": "Bonjour, Votre Excellence Excellente. La bourse va trÃ¨s mal en ce moment. Il faudrait nous donner une avance pour Ã©viter aux banques de faire faillite. Les consÃ©quences pourraient Ãªtre dÃ©sastreuses dans le cas contraire !",
 	"Answers": [{
-		"Answer": "Les banques qu'est-ce que c'est ?",
+		"Answer": "Les banques ? Qu'est-ce que c'est ?",
 		"Power": 75,
 		"Ressource": "Tech"
 	}, {
-		"Answer": "Le nécessaire sera fait.",
+		"Answer": "Le nÃ©cessaire sera fait.",
 		"Power": 75,
 		"Ressource": "Gold"
 	}, {
-		"Answer": "Un cookie, Jean Charles ?",
+		"Answer": "Vous prendrez bien un cookie, Jean-Charles ?",
 		"Power": 75,
 		"Ressource": "Food"
 	}]
