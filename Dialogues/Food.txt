@@ -1,64 +1,64 @@
 [{
 	"id": 1,
-	"Question": "Bonjour votre grandeur nos rÈserves de nourritures sont ÈpuisÈes vous serait il possible de nous en fournir ?",
+	"Question": "Bonjour votre Magnificente Grandeur ! Nos r√©serves de nourriture sont √©puis√©es ! Vous serait-il possible de nous rassasier un peu ?",
 	"Answers": [{
-		"Answer": "Mais oui bien s˚r je ne laisserai jamais mon peuple mourir de faim.",
+		"Answer": "Mais oui, bien s√ªr ! Je ne laisserai jamais mon peuple mourir de faim !",
 		"Power": 75,
 		"Ressource": "Food"
 	}, {
-		"Answer": "Malheureusement c'est impossible pour le moment nous n'avons plus rien en stock, en revanche, je peux vous offrir de quoi en acheter.",
+		"Answer": "Malheureusement, c'est impossible. Actuellement, nous n'avons plus rien en stock ! En revanche, je peux vous offrir de quoi en acheter...",
 		"Power": 50,
 		"Ressource": "Gold"
 	}, {
-		"Answer": "Une nouvelle technologie est en dÈveloppement qui devrait amÈliorer vos vies.",
+		"Answer": "Une nouvelle technologie est en d√©veloppement. Elle devrait am√©liorer vos vies.",
 		"Power": 25,
 		"Ressource": "Tech"
 	}]
 }, {
 	"id": 2,
-	"Question": "Bonjour grand dirigeant, votre peuple est actuellement en train de mourir de faim, pourriez-vous rÈsoudre cela rapidement ?",
+	"Question": "Mes respects, Grand Dirigeant ! Votre peuple est actuellement en train de mourir de faim... Pourriez-vous r√©soudre cela rapidement ?",
 	"Answers": [{
-		"Answer": "En effet, je vais vous faire parvenir une partie des stocks de nourriture de la ville.",
+		"Answer": "Certainement, je vais de ce pas vous faire parvenir une partie des stocks de nourriture de la ville.",
 		"Power": 75,
 		"Ressource": "Food"
 	}, {
-		"Answer": "Pour cela je peux vous fournir de quoi en faire venir.",
+		"Answer": "Je peux vous aider financi√®rement pour en acheter plus de nourriture.",
 		"Power": 50,
 		"Ressource": "Gold"
 	}, {
-		"Answer": "Malheureusement, nos rÈserves sont ÈpuisÈes, mais je peux vous aider ‡ produire plus gr‚ce ‡ cette tecnhologie de pointe.",
+		"Answer": "Nos r√©serves sont √©puis√©es. Cependant, je peux vous aider √† produire plus de nourriture, gr√¢ce √† cette tecnhologie de pointe !",
 		"Power": 25,
 		"Ressource": "Tech"
 	}]
 }, {
 	"id": 3,
-	"Question": "Supreme Leader! La famine est ‡ nos portes! Il est crucial de nous venir en aide! ",
+	"Question": "Supr√™me Leader de notre Patrie ! La famine est √† nos portes et nos paillassons ! Il est crucial de nous venir en aide !",
 	"Answers": [{
-		"Answer": "Comment !? voici la nourriture demandÈ !",
+		"Answer": "Comment !? √Ä vos paillassons ? Voici la nourriture demand√©e !",
 		"Power": 75,
 		"Ressource": "Food"
 	}, {
-		"Answer": "  Il va falloir tenir sur nos rÈserves pour le moment, je vous en offrirai dËs que possibleÖ Pour patienter vous pouvez tester cette nouvelle invention de nos ingÈnieurs.",
+		"Answer": "  Il va falloir tenir sur nos maigres r√©serves pour le moment. Je vous fournirai de la nourriture d√®s que possible... Pour patienter, vous pouvez tester cette nouvelle invention de nos ing√©nieurs !",
 		"Power": 50,
 		"Ressource": "Tech"
 	}, {
-		"Answer": " Vous níavez pas de pain ? Mangez donc de la brioche ! Voil‡ de quoi vous ravitailler.",
+		"Answer": " Vous n'avez pas de pain ? Mangez donc de la brioche all√©g√©e ! Voil√† donc de quoi vous ravitailler.",
 		"Power": 25,
 		"Ressource": "Gold"
 	}]
 },{
 	"id": 4,
-	"Question": "‘ grand Vizir, notre riche quartier quÈmande de la bonne nourriture pour un nouveau restaurant chic !",
+	"Question": "√î Grand Vizir, notre riche quartier qu√©mande de la bouffetance pour un nouveau restaurant chic !",
 	"Answers": [{
-		"Answer": "Voil‡ ! Pensez ‡ m'y inviter de temps en temps.",
+		"Answer": "Prenez cela ! Pensez √† m'y inviter de temps en temps.",
 		"Power": 75,
 		"Ressource": "Food"
 	}, {
-		"Answer": "Voici les fonds nÈcessaire pour vous faire remonter la pente !",
+		"Answer": "Voici les fonds n√©cessaires pour vous faire remonter la pente !",
 		"Power": 50,
 		"Ressource": "Gold"
 	}, {
-		"Answer": "Non je vous trouve bien assez gras, tentez donc d'utiliser ce nouvel outil pour faciliter la perte de poids, efficacitÈ prouvÈe !",
+		"Answer": "Je vous trouve d√©j√† bien assez gras. Tentez plut√¥t d'utiliser ce nouvel outil pour faciliter la perte de poids. L'efficacit√© est prouv√©e !",
 		"Power": 25,
 		"Ressource": "Tech"
 	}]
