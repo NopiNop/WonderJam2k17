@@ -1,3 +1,40 @@
-I need food:Yes:No:GFY;
-I am thirsty af:Yes:No:GFY;
-Please:Yes:No:GFY;
+[{
+	"id": 1,
+	"Question": "Could you plz, gfy?",
+	"Answers": [{
+		"Answer": "Oui",
+		"Power": 75
+	}, {
+		"Answer": "Non",
+		"Power": 50
+	}, {
+		"Answer": "Peut-être",
+		"Power": 25
+	}]
+}, {
+	"id": 2,
+	"Question": "HEYO!",
+	"Answers": [{
+		"Answer": "Oui",
+		"Power": 75
+	}, {
+		"Answer": "Non",
+		"Power": 50
+	}, {
+		"Answer": "Peut-être",
+		"Power": 25
+	}]
+}, {
+	"id": 3,
+	"Question": "I'm HUNGRY!",
+	"Answers": [{
+		"Answer": "MIOMIOM",
+		"Power": 75
+	}, {
+		"Answer": "Non",
+		"Power": 50
+	}, {
+		"Answer": "Peut-être",
+		"Power": 25
+	}]
+}]
