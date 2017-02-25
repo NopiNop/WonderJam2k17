@@ -1,0 +1,3 @@
+I need food:Yes:No:GFY;
+I am thirsty af:Yes:No:GFY;
+Please:Yes:No:GFY;
