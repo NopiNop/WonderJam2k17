@@ -1,53 +1,65 @@
-ï»¿[{
+[{
 	"id": 1,
-	"Question": "Bonjour votre grandeur nos rÃ©serves de nourritures sont Ã©puisÃ©es vous serait il possible de nous en fournir [food] ?",
+	"Question": "Bonjour votre grandeur nos réserves de nourritures sont épuisées vous serait il possible de nous en fournir ?",
 	"Answers": [{
-		"Answer": "Mais oui bien sÃ»r je ne laisserai jamais mon peuple mourir de faim.",
-		"Power": 75
+		"Answer": "Mais oui bien sûr je ne laisserai jamais mon peuple mourir de faim.",
+		"Power": 75,
+		"Ressource": "Food"
 	}, {
-		"Answer": "Malheureusement c'est impossible pour le moment nous n'avons plus rien en stock.",
-		"Power": 50
+		"Answer": "Malheureusement c'est impossible pour le moment nous n'avons plus rien en stock, en revanche, je peux vous offrir de quoi en acheter.",
+		"Power": 50,
+		"Ressource": "Gold"
 	}, {
-		"Answer": "Gardes, enfermez cet homme !",
-		"Power": 25
+		"Answer": "Une nouvelle technologie est en développement qui devrait améliorer vos vies.",
+		"Power": 25,
+		"Ressource": "Tech"
 	}]
 }, {
 	"id": 2,
-	"Question": "Bonjour grand dirigeant, votre peuple est actuellement en train de mourir de faim, pourriez-vous rÃ©soudre cela rapidement ?",
+	"Question": "Bonjour grand dirigeant, votre peuple est actuellement en train de mourir de faim, pourriez-vous résoudre cela rapidement ?",
 	"Answers": [{
-		"Answer": "En effet, je vais vous faire parvenir [food] de nourriture.",
-		"Power": 75
+		"Answer": "En effet, je vais vous faire parvenir une partie des stocks de nourriture de la ville.",
+		"Power": 75,
+		"Ressource": "Food"
 	}, {
-		"Answer": "Pour cela je peux vous fournir [gold].",
-		"Power": 50
+		"Answer": "Pour cela je peux vous fournir de quoi en faire venir.",
+		"Power": 50,
+		"Ressource": "Gold"
 	}, {
-		"Answer": "Malheureusement, nos rÃ©serves sont Ã©puisÃ©es, je ne vais rien pouvoir faire pour vous.",
-		"Power": 25
+		"Answer": "Malheureusement, nos réserves sont épuisées, mais je peux vous aider à produire plus grâce à cette tecnhologie de pointe.",
+		"Power": 25,
+		"Ressource": "Tech"
 	}]
 }, {
 	"id": 3,
-	"Question": "Supreme Leader! La famine est Ã  nos portes! Il est crucial de nous venir en aide, Ã  moins de [food] nous en souffrirons! ",
+	"Question": "Supreme Leader! La famine est à nos portes! Il est crucial de nous venir en aide! ",
 	"Answers": [{
-		"Answer": "Comment!? voici les [food] demandÃ©es!",
-		"Power": 75
+		"Answer": "Comment !? voici la nourriture demandé !",
+		"Power": 75,
+		"Ressource": "Food"
 	}, {
-		"Answer": "  Il va falloir tenir sur nos rÃ©serves pour le moment, je vous en offrirai dÃ¨s que possibleâ€¦",
-		"Power": 50
+		"Answer": "  Il va falloir tenir sur nos réserves pour le moment, je vous en offrirai dès que possible… Pour patienter vous pouvez tester cette nouvelle invention de nos ingénieurs.",
+		"Power": 50,
+		"Ressource": "Tech"
 	}, {
-		"Answer": " Vous nâ€™avez pas de pain? Mangez donc de la brioche !",
-		"Power": 25
+		"Answer": " Vous n’avez pas de pain ? Mangez donc de la brioche ! Voilà de quoi vous ravitailler.",
+		"Power": 25,
+		"Ressource": "Gold"
 	}]
 },{
 	"id": 4,
-	"Question": "Ã” grand Vizir, notre riche quartier quÃ©mande de la bonne nourriture pour un nouveau restaurant chic ! Les paysans nâ€™auraient-ils pas trop de nourriture sous la dent?",
+	"Question": "Ô grand Vizir, notre riche quartier quémande de la bonne nourriture pour un nouveau restaurant chic !",
 	"Answers": [{
-		"Answer": "Si et plein de caries! VoilÃ  [food] de nourriture",
-		"Power": 75
+		"Answer": "Voilà ! Pensez à m'y inviter de temps en temps.",
+		"Power": 75,
+		"Ressource": "Food"
 	}, {
-		"Answer": "Laissez moi y reflÃ©chir !",
-		"Power": 50
+		"Answer": "Voici les fonds nécessaire pour vous faire remonter la pente !",
+		"Power": 50,
+		"Ressource": "Gold"
 	}, {
-		"Answer": "Non et je vous trouve assez bien gras vous-mÃªme !",
-		"Power": 25
+		"Answer": "Non je vous trouve bien assez gras, tentez donc d'utiliser ce nouvel outil pour faciliter la perte de poids, efficacité prouvée !",
+		"Power": 25,
+		"Ressource": "Tech"
 	}]
 }]
