@@ -38,7 +38,7 @@
 		"Power": 75,
 		"Ressource": "Gold"
 	}, {
-		"Answer": "C'est impossible. Cependant, en changeant légèrement votre usine, vous pourriez faire un profit conséquent ! Laissez-moi vous expliquer.",
+		"Answer": "C'est impossible. Cependant, en changeant légèrement votre usine avec cette technologie, vous pourriez faire un profit conséquent ! Laissez-moi vous expliquer.",
 		"Power": 50,
 		"Ressource": "Tech"
 	}, {
@@ -50,7 +50,7 @@
 	"id": 4,
 	"Question": "Bien le bonjour, Ô Votre Grandeur. Plusieurs de nos tracteurs ont été volés en début de semaine. Il nous en faudrait de nouveaux pour les moissons de la semaine prochaine. Sans cela, il sera difficile de nourrir tout le monde quand les réserves seront épuisées. Cela vous est-il possible ?",
 	"Answers": [{
-		"Answer": "Pas de problème. Voici ce dont vous aurez besoin.",
+		"Answer": "Pas de problème. Voici de l'argent pour vous !",
 		"Power": 75,
 		"Ressource": "Gold"
 	}, {
@@ -58,7 +58,7 @@
 		"Power": 75,
 		"Ressource": "Tech"
 	}, {
-		"Answer": "Si vraiment vous avez peur de ne pas en avoir assez, vous pouvez aussi vous servir dans les réserves de la ville.",
+		"Answer": "Si vraiment vous avez peur de ne pas en avoir assez, vous pouvez aussi vous servir dans les réserves de nourriture de la ville.",
 		"Power": 75,
 		"Ressource": "Food"
 	}]
@@ -66,7 +66,7 @@
 	"id": 5,
 	"Question": "Bonjour, Votre Excellence Excellente. La bourse va très mal en ce moment. Il faudrait nous donner une avance pour éviter aux banques de faire faillite. Les conséquences pourraient être désastreuses dans le cas contraire !",
 	"Answers": [{
-		"Answer": "Les banques ? Qu'est-ce que c'est ?",
+		"Answer": "Les banques ? Qu'est-ce que c'est ? Je préfère la technologie moi !",
 		"Power": 75,
 		"Ressource": "Tech"
 	}, {

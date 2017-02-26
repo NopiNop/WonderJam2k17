@@ -6,7 +6,7 @@
 		"Power": 75,
 		"Ressource": "Tech"
 	}, {
-		"Answer": "Je crois que vous pouvez attendre longtemps avant d'avoir votre nouveau jouet ! Voici de quoi vous faire patienter !",
+		"Answer": "Je crois que vous pouvez attendre longtemps avant d'avoir votre nouveau jouet ! Voici de l'argent pour vous faire patienter !",
 		"Power": 50,
 		"Ressource": "Gold"
 	}, {
@@ -42,7 +42,7 @@
   "Power": 50,
   "Ressource": "Food"
 }, {
-  "Answer": "De riches intellectuels... ? Hm... En tout cas, vous n'en avez pas besoin ! Regardez un peu : nous avons tellement de ressources que nous ne savons plus quoi en faire !",
+  "Answer": "De riches intellectuels... ? Hm... En tout cas, vous n'en avez pas besoin ! Regardez un peu : nous avons tellement d'argent que nous ne savons plus quoi en faire !",
   "Power": 25,
   "Ressource": "Gold"
 }]

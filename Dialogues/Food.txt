@@ -42,7 +42,7 @@
 		"Power": 50,
 		"Ressource": "Tech"
 	}, {
-		"Answer": " Vous n'avez pas de pain ? Mangez donc de la brioche allégée ! Voilà donc de quoi vous ravitailler.",
+		"Answer": " Vous n'avez pas de pain ? Mangez donc de la brioche allégée ! Voilà donc de l'argent pour vous ravitailler.",
 		"Power": 25,
 		"Ressource": "Gold"
 	}]
@@ -50,7 +50,7 @@
 	"id": 4,
 	"Question": "Ô Grand Vizir, notre riche quartier quémande de la bouffetance pour un nouveau restaurant chic !",
 	"Answers": [{
-		"Answer": "Prenez cela ! Pensez à m'y inviter de temps en temps.",
+		"Answer": "Prenez cette nourriture ! Pensez à m'y inviter de temps en temps.",
 		"Power": 75,
 		"Ressource": "Food"
 	}, {
